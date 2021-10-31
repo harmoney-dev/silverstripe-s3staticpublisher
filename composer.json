@@ -3,7 +3,7 @@
     "description": "S3 publisher for SilverStripe's Static Publish Queue",
     "type": "silverstripe-vendormodule",
     "require": {
-        "silverstripe/staticpublishqueue": "^4.0.0-beta.1",
+        "silverstripe/staticpublishqueue": "^5.0.0",
         "aws/aws-sdk-php": "^3"
     },
     "license": "MIT",
